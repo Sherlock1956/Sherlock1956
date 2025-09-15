@@ -1,15 +1,15 @@
-## 你好！ 👋
+## Hi there！ 👋
 
-我是李宇潇，是一名大模型领域爱好者和学习者，仍然在充分探究学习大模型专业知识和前沿技术并寻找合适的实习机会。
+我是李宇潇，一名大模型领域爱好者和学习者。持续探究大模型专业知识和前沿技术🧑‍💻寻找合适的实习机会ing！
 
-- 🎓 [清华大学](https://www.tsinghua.edu.cn/)2025级软件学院，软件工程专业
-- 💳 [电子科技大学](https://www.uestc.edu.cn/)2021级计算机学院，计算机科学与技术专业
-- 💼 实习经历：[京东零售]（大数据开发）-> 美团商业增值（大模型算法）
+- 🎓 \[硕士\][清华大学](https://www.tsinghua.edu.cn/)2025级软件学院，软件工程专业
+- 💳 \[本科\][电子科技大学](https://www.uestc.edu.cn/)2021级计算机学院，计算机科学与技术专业
+- 💼 实习经历：\[京东零售\]大数据开发 -> \[美团商业增值\]（大模型算法）
 - 🦾 Python/C++/Spark/Shell -> LLM
 - 🧗 热爱体育运动，包括攀岩，健身，羽毛球
 - 🎸 爱好音乐，喜欢木吉他指弹
 - 📨 通过邮件联系我：lee.liyuxiao@gmail.com
-- 📝 [我的简历](resume.pdf)
+- 📝 [我的简历](李宇潇-个人简历.pdf)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sherlock1956&theme=dark" alt="Sherlock1956" width="100%"/>
