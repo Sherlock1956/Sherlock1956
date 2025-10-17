@@ -10,7 +10,7 @@
 - 🎸 爱好音乐，喜欢木吉他指弹
 - 📨 通过邮件联系我：lee.liyuxiao@gmail.com
 - 📝 [我的简历](李宇潇-个人简历.pdf)
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-streak-am90ad4ap-sherlock1956s-projects.vercel.app?user=Sherlock1956&theme=dark" alt="Sherlock1956" width="100%"/>
 </p>
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
@@ -19,4 +19,4 @@
 </div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherlock1956&theme=high-contrast" width="100%"/>
-</p>
+</p> -->
